@@ -1,6 +1,7 @@
 Proiect Tehnologii Web ~ Aplicație Web pentru a preveni risipa de alimente ~
 
 Echipa: Webingenious
+
 Studenți: Fota Oana-Daniela, Geosanu Ioana, Grosu Teodora-Catalina  ~ Grupa: 1084C
 
 Descriere:
